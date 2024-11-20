@@ -1,5 +1,5 @@
 # Function-verification
-##A Solidity Function to Calculate Balance:##
+A Solidity Function to Calculate Balance:
 A Solidity function where users can deposit money, and their balances are updated after each deposit.
 
 Properties of the Function:
