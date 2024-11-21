@@ -20,7 +20,8 @@ Correct Balance Update:
 The new balance is calculated by correctly adding the deposit to the old balance, and this is returned to the user.
 
 How Formal Verification Could Help Prove the Correctness of a Deposit Function
-The function's correctness is critical in blockchain applications where even minor errors can lead to financial loss or exploitation. Formal verification is a method that can mathematically prove the function behaves as intended under all possible conditions.
+The function's correctness is critical in blockchain applications where even minor errors can lead to financial loss or exploitation. 
+Formal verification is a method that can mathematically prove the function behaves as intended under all possible conditions.
 
 Role of Formal Verification
 Formal verification helps ensure that the deposit function adheres to specific correctness properties by proving these properties mathematically
